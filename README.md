@@ -1,2 +1,2 @@
 # TravelCrypto
-<embed src="https://github.com/mrblackke/TravelCrypto/blob/2f842011b0e99e2aad56493a111a56a2970d6515/TravelCrypto%20White%20Paper.pdf" type="application/pdf' />
+https://docs.google.com/viewer?url=${https://github.com/mrblackke/TravelCrypto/raw/main/TravelCrypto%20White%20Paper.pdf}
